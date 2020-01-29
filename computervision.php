@@ -18,7 +18,7 @@ if (isset($_POST['submit'])) {
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
         <link rel="stylesheet" href="styles.css" />
 
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     </head>
         <body>
         <div id="conteneur">
